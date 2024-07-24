@@ -1,0 +1,2 @@
+#JavaScript
+This is my first JavaScript Project. When working on this project, I was watching the last lesson recording, trying my best to understand the code functions we used on the script, and how this could do with printing the shopping list.
